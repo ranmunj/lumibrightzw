@@ -6,4 +6,4 @@ Static marketing website for LumiBright Zimbabwe.
 
 This repository includes `render.yaml` for a Render Static Site. The publish directory is `dist` and no build command is required.
 
-Before making the site public, replace the provisional contact address in `dist/index.html` if an approved LumiBright Zimbabwe mailbox differs from `hello@lumibrightzw.com`.
+The site's enquiry links are configured to email `aramunj@icloud.com` and call `469 678 6617`.

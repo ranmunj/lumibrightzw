@@ -176,6 +176,8 @@ em { color: var(--lime); font-style: normal; }
 .enquiry-card p { margin-bottom: 1.2rem; color: #c4d6c8; font-size: .94rem; }
 .button-light { background: white; color: #06150e; }
 .button-light:hover { background: #eaf6df; }
+.contact-phone { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-top: 1.15rem; padding-top: 1rem; border-top: 1px solid rgba(225, 255, 237, .18); color: var(--lime); font: 500 .82rem var(--mono); letter-spacing: .02em; }
+.contact-phone span { color: #9ab2a3; font: 500 .68rem var(--sans); }
 .enquiry-card small { display: block; margin-top: .95rem; color: #8ba297; font-size: .7rem; line-height: 1.4; }
 
 .site-footer { padding: 2.2rem 0 1.3rem; background: #020906; }
